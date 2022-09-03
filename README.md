@@ -1,4 +1,4 @@
-#A SIMPLE QUIZ SYSTEM
+# A SIMPLE QUIZ SYSTEM
 
 ## Introduction
 The script is for a very simple quiz system which I used to look at the integration of classes
